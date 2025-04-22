@@ -1,0 +1,11 @@
+C:\Users\Usuário\Desktop\exercicio_leetcode_visual_basic\basico_visual_basic\basico_visual_basic\bin\Debug\basico_visual_basic.exe.config
+C:\Users\Usuário\Desktop\exercicio_leetcode_visual_basic\basico_visual_basic\basico_visual_basic\bin\Debug\basico_visual_basic.exe
+C:\Users\Usuário\Desktop\exercicio_leetcode_visual_basic\basico_visual_basic\basico_visual_basic\bin\Debug\basico_visual_basic.pdb
+C:\Users\Usuário\Desktop\exercicio_leetcode_visual_basic\basico_visual_basic\basico_visual_basic\bin\Debug\basico_visual_basic.xml
+C:\Users\Usuário\Desktop\exercicio_leetcode_visual_basic\basico_visual_basic\basico_visual_basic\obj\Debug\basico_visual_basic.vbproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\exercicio_leetcode_visual_basic\basico_visual_basic\basico_visual_basic\obj\Debug\basico_visual_basic.Resources.resources
+C:\Users\Usuário\Desktop\exercicio_leetcode_visual_basic\basico_visual_basic\basico_visual_basic\obj\Debug\basico_visual_basic.vbproj.GenerateResource.cache
+C:\Users\Usuário\Desktop\exercicio_leetcode_visual_basic\basico_visual_basic\basico_visual_basic\obj\Debug\basico_visual_basic.vbproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\exercicio_leetcode_visual_basic\basico_visual_basic\basico_visual_basic\obj\Debug\basico_visual_basic.exe
+C:\Users\Usuário\Desktop\exercicio_leetcode_visual_basic\basico_visual_basic\basico_visual_basic\obj\Debug\basico_visual_basic.xml
+C:\Users\Usuário\Desktop\exercicio_leetcode_visual_basic\basico_visual_basic\basico_visual_basic\obj\Debug\basico_visual_basic.pdb
