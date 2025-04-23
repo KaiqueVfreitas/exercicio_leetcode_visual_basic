@@ -11,12 +11,13 @@
         'Console.Write("Digite o numero 2:")
         'decNum2 = Console.ReadLine()
 
-        'decResult = Soma.CalcularSoma(decNum1, decNum2)
+        'decResult = OperadoresAritmeticos.CalcularSoma(decNum1, decNum2)
 
 
         'Console.Write($"O seu resultado foi {decResult}")
 
-        Console.WriteLine(OperadoresAritmeticos.ExpressaoPreDefinida)
+        'Console.WriteLine(OperadoresAritmeticos.ExpressaoPreDefinida)
+
 
     End Sub
 
